@@ -13,11 +13,13 @@ Add this repo as a patch source in Morphe Manager:
 
 https://morphe.software/add-source?github=sushruth/imgur-patches
 
-## 🩹 Patches
+## 🩹 Patches list
 
-- **Remove ads** — forces the app's no-ads (Emerald) entitlement flag, which gates every ad
-  surface: feed ads, promoted tiles, sticky/banner/headliner/insertable/full-page ads, and
-  sponsored reactions.
+<!-- PATCHES_START EXPANDED -->
+
+<!-- Do not modify this section by hand. The patch list is generated when release.yml creates a new release. -->
+
+<!-- PATCHES_END -->
 
 ## 🚀 Get started
 
